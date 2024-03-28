@@ -1,0 +1,87 @@
+// min page width
+$page-min-width: 1515px;
+
+// contents width
+$contents-width-default: 600px;
+$contents-width-wide: 1200px;
+$contents-width-max: 1460px;
+
+// font
+$font-default: '맑은고딕', 'Malgun Gothic', '돋움', Dotum, 'Apple Gothic', sans-serif;
+
+
+// colors
+$color-black: #15181f;
+$color-white: #fff;
+$color-semantic-essential: #f64a4a;
+$color-semantic-caution: #ec700f;
+$color-semantic-warning: #ffa514;
+$color-semantic-positive: #42a946;
+$color-semantic-accent: #0091ea;
+
+// 시스템관련 컬러
+$color-background-basic : #FFFFFF;
+$color-error: #B00020;
+$color-warning: #FFEA00;
+
+//기본컬러
+$color-basic :#6200ee;
+$color-basic-primary : #4527A0;
+$color-basic-secondary : #3700b3;
+$color-basic-tertiary : #bb86fc;
+
+// 보조컬러
+// 플로팅 작업 버튼
+// 슬라이더 및 스위치와 같은 선택 컨트롤
+// 선택한 텍스트 강조 표시
+// 진행률 표시줄
+// 링크 및 헤드라인
+$color-assistant : #1A237E;
+$color-assistant-primary : #283593;
+$color-assistant-secondary : #0D47A1;
+$color-assistant-tertiary : #1565C0;
+$color-assistant-quaternary : #311B92;
+$color-assistant-quinary : #7E57C2;
+$color-assistant-senary : #18FFFF;
+$color-assistant-octonary: #00BFA5;
+$color-assistant-nonary : #1B5E20;
+$color-assistant-denary : #4CAF50;
+
+
+//타이포그래피 및 아이콘 색상
+// 1. 기본 색상의 기준선 #FFFFFF
+// 2. 보조 색상의 기준선 #FFFFFF
+// 3. 배경 색상의 기준선 #B00020
+// 4. 표면 색상의 기준선 #B00020
+// 5. 오류 색상의 기준선 # B00020
+
+//섹션테마 색상
+
+
+//데이타 시각화 추가 색상
+$color-data-visualization : #263238;
+$color-data-visualization-primary : #37474F;
+$color-data-visualization-secondary : #455A64;
+$color-data-visualization-tertiary : #546E7A;
+$color-data-visualization-quaternary : #607D8B;
+$color-data-visualization-quinary : #78909C;
+
+// line-height
+$line-height-default: 1.5;
+$line-height-head: 1.4;
+$line-height-button: 1;
+
+// letter spacing
+$letter-spacing-default: -0.02em;
+
+$color-button : #0091ea;
+$color-button-primary : #031850;
+$color-button-secondary : #0D47A1;
+$color-button-tertiary : #1565C0;
+$color-button-quaternary : #922d1b;
+$color-button-quinary : #7E57C2;
+$color-button-senary : #089c46;
+$color-button-septenary : #2f93a0;
+$color-button-octonary: #690342;
+$color-button-nonary : #1B5E20;
+$color-button-denary : #83a01d;
